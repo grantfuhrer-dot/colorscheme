@@ -4,7 +4,7 @@
     <th colspan="4">Cat</th>
   </tr>
   <tr>
-    <th>Orange</th>
+    <th style="background-color:#E3963E;">Orange</th>
     <th>Pink</th>
     <th>White</th>
     <th>Black</th>
