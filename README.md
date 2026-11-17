@@ -5,6 +5,9 @@
   </tr>
   <tr>
     <th>Orange</th>
+    <th>Pink</th>
+    <th>White</th>
+    <th>Black</th>
   </tr>
   
 </table>
