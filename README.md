@@ -5,8 +5,8 @@
   </tr>
   <tr>
     <th style="background-color:#E3963E;">Orange</th>
-    <th>Pink</th>
-    <th>White</th>
+    <th style="background-color:#FFB6C1;">Pink</th>
+    <th style="background-color:#FFB6C1;">White</th>
     <th>Black</th>
   </tr>
   
